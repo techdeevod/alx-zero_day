@@ -1,2 +1,0 @@
-git fetch -p origin
-git merge origin/master
